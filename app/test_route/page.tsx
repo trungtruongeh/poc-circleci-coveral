@@ -1,3 +1,3 @@
-const Page = () => (<div>test route</div>)
+const Page = () => (<div>test route update</div>)
 
 export default Page;
